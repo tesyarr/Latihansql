@@ -1,0 +1,2 @@
+# Latihansql
+Belajar SQL 
